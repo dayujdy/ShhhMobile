@@ -1,0 +1,6 @@
+framework module Pods_ShhhMobile {
+  umbrella header "Pods-ShhhMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
